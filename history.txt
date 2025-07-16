@@ -1,0 +1,97 @@
+$ chmod +x shell_intro.sh
+
+0009041027088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ ./shell_intro.sh
+Welcome to the shell
+/c/Users/0009041027088/Desktop/task-1-prac
+ hello_world   mashiane   shell_arch_pract.md   shell_arch_task.txt   shell_intro   shell_intro.sh  'welcome to the shell'
+
+0009041027088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch reflection.txt
+
+0009041027088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo " 1 to aotumate system tasks, 2 to correct contract commands, 3 the terminal offers a great efficieny for certain tasks" reflection.txt
+ 1 to aotumate system tasks, 2 to correct contract commands, 3 the terminal offers a great efficieny for certain tasks reflection.txt
+
+0009041027088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo " 1 to aotumate system tasks, 2 to correct contract commands, 3 the terminal offers a great efficieny for certain tasks" > reflection.txt
+
+0009041027088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ history
+    1  echo "# hello_world" >> README.md
+    2  git init
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git branch -M main
+    6  git remote add origin https://github.com/0662780162/hello_world.git
+    7  git push -u origin main
+    8  git clone https://github.com/0662780162/task-1-prac.git
+    9  git pull origin main
+   10  cd task-1-prac
+   11  git pull origin main
+   12  code .
+   13  echo shell
+   14  pwd
+   15  ls
+   16  mkdir khomotso
+   17  mkdir mashiane
+   18  mkdir hello_world
+   19  cd..
+   20  cd
+   21  shell_intro.sh:
+   22  cd..
+   23  shell.intro
+   24  shell_intro.sh
+   25  cd desktop
+   26  cd task-1-prac
+   27  mkdir shell_intro
+   28  nano shell_intro
+   29  #!/bin/bash
+   30  # my first shell script
+   31  echo welcome to the shell
+   32  pwd
+   33  ls
+   34
+   35  chmod +x shell_intro.sh
+   36  cd desktop
+   37  chmod +x shell_intro.sh
+   38  chmod +x shell_intro
+   39  ./shell_intro
+   40  git clone
+   41  https://github.com/0662780162/task-1-prac.git
+   42  git clone https://github.com/0662780162/task-1-prac.git
+   43  git clone https://github.com/0662780162/hello_world.git
+   44  cd hello-world
+   45  cd hello_world
+   46  ls
+   47  mkdir prac
+   48  cd prac
+   49  eco $ null
+   50  echo $ null
+   51  echo $null > "prac.txt"
+   52  echo khomotso> "prac.txt"
+   53  ls
+   54  cd task-1-prac
+   55  ls
+   56  echo "The shell is my translator to the OS"
+   57  pwd
+   58  ls
+   59*
+   60  cd ..
+   61  ls
+   62  cd Documents
+   63  cd ..
+   64  ls
+   65  cd Desktop
+   66  ls
+   67  cd task-1-prac
+   68  nano shell_intro.sh
+   69  chmod +x shell_intro.sh
+   70  ./shell_intro.sh
+   71  touch reflection.txt
+   72  echo " 1 to aotumate system tasks, 2 to correct contract commands, 3 the terminal offers a great efficieny for certain tasks" reflection.txt
+   73  echo " 1 to aotumate system tasks, 2 to correct contract commands, 3 the terminal offers a great efficieny for certain tasks" > reflection.txt
+   74  history
+
+0009041027088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$
