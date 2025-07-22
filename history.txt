@@ -1,0 +1,105 @@
+    1  echo "# hello_world" >> README.md
+    2  git init
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git branch -M main
+    6  git remote add origin https://github.com/0662780162/hello_world.git
+    7  git push -u origin main
+    8  git clone https://github.com/0662780162/task-1-prac.git
+    9  git pull origin main 
+   10  cd task-1-prac 
+   11  git pull origin main
+   12  code .
+   13  echo shell 
+   14  pwd 
+   15  ls
+   16  mkdir khomotso
+   17  mkdir mashiane
+   18  mkdir hello_world
+   19  cd..
+   20  cd
+   21  shell_intro.sh:
+   22  cd..
+   23  shell.intro
+   24  shell_intro.sh
+   25  cd desktop
+   26  cd task-1-prac
+   27  mkdir shell_intro
+   28  nano shell_intro
+   29  #!/bin/bash
+   30  # my first shell script
+   31  echo welcome to the shell
+   32  pwd
+   33  ls
+
+   34   
+   35  chmod +x shell_intro.sh
+   36  cd desktop
+   37  chmod +x shell_intro.sh
+   38  chmod +x shell_intro
+   39  ./shell_intro
+   40  git clone 
+   41  https://github.com/0662780162/task-1-prac.git
+   42  git clone https://github.com/0662780162/task-1-prac.git
+   43  git clone https://github.com/0662780162/hello_world.git
+   44  cd hello-world
+   45  cd hello_world
+   46  ls
+   47  mkdir prac
+   48  cd prac
+   49  eco $ null
+   50  echo $ null
+   51  echo $null > "prac.txt"
+   52  echo khomotso> "prac.txt"
+   53  ls
+   54  mkdir house 
+   55  cd 
+   56  cd house
+   57  https://github.com/0662780162/Task-1.git
+   58  https://github.com/0662780162/Task-1.git
+   59  git clone https://github.com/0662780162/Task-1.git
+   60  pwd
+   61  ls
+   62  cd task-1-prac
+   63  ls
+   64  cd 
+   65  cd Desktop
+   66  git clone https://github.com/0662780162/task-1-prac.git
+   67  cd task-1-prac
+   68  code .
+   69  echo "The shell is my translator to the OS"
+   70  pwd
+   71  ls
+   72  code .
+   73  mkdir shell_intro.sh
+   74  touch reflection.txt
+   75  echo "The shell is my translator to the OS"
+   76  pwd
+   77  ls
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  cd Documents
+   82  cd..
+   83  cd ..
+   84  cd Desktop
+   85  ls
+   86  cd task-1-prac
+   87  nano shell_intro.sh
+   88  nano shell_intro.sh
+   89  nano shell_intro.sh
+   90  nano shell_intro.sh
+   91  chmod +x shell_intro.sh
+   92  ./shell_intro.sh
+   93  touch reflection.txt
+   94  echo "1 a shell is a program that interact with an operating system, 2 learning how to run system such as system configuration,3 requring text based commands instead of visual navigation" > reflection.txt
+   95  ls
+   96  nano reflection.txt
+   97  git add shell_intro.sh
+   98  git add shell_intro.sh reflection.txt
+   99  git commit -m "completed shell architecture hands-on tasks"
+  100  git push
+  101  history
+  102  log
+  103  git log
+  104  history > history.txt
