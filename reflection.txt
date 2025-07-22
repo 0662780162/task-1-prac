@@ -1,0 +1,2 @@
+
+1 a shell is a program that interact with an operating system, 2 learning how to run system such as system configuration,3 requring text based commands instead of visual navigation
